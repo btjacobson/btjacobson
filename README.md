@@ -1,5 +1,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=btjacobson&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=btjacobson)
 ![Bryce's GitHub stats](https://github-readme-stats.vercel.app/api?username=btjacobson&include_all_commits=true&count_private=true)
 
 <!--
