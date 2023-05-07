@@ -1,5 +1,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=btjacobson&layout=compact)
 ![Bryce's GitHub stats](https://github-readme-stats.vercel.app/api?username=btjacobson&include_all_commits=true&count_private=true)
+![Bryce's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=btjacobson)
+
 
 <!--
 **btjacobson/btjacobson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
