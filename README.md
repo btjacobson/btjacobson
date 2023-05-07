@@ -1,5 +1,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=btjacobson&layout=compact)
-![Bryce's GitHub stats](https://github-readme-stats-multiuser.vercel.app/api?usernames=btjacobson,oralgendev)
+![Bryce's GitHub stats](https://github-readme-stats-multiuser.vercel.app/api?usernames=btjacobson,oralgendev&include_all_commits=true&count_private=true)
 ![Bryce's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=3d4a75d3-6560-422c-a576-901fc831b725)
 
 <!--
