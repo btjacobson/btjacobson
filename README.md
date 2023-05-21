@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats-multiuser.vercel.app/api/top-langs/?usernames=btjacobson,oralgendev&layout=donu)
+![Top Langs](https://github-readme-stats-multiuser.vercel.app/api/top-langs/?usernames=btjacobson,oralgendev&layout=donut)
 
 <!--
 **btjacobson/btjacobson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
